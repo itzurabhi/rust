@@ -50,4 +50,5 @@ Session.vim
 .cargo
 !/src/test/run-make/thumb-none-qemu/example/.cargo
 no_llvm_build
+!vendor
 # Before adding new lines, see the comment at the top.
